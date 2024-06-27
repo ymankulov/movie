@@ -1,0 +1,13 @@
+#films {
+  display: flex;
+  .df {
+    display: flex;
+    overflow-x: scroll;
+    width: 900px;
+    height: 400px;
+    gap: 20px;
+    h1 {
+      font-size: large;
+    }
+  }
+}
